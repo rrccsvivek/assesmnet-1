@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dear student, Academic and Administrat_a08d91</name>
+   <tag></tag>
+   <elementGuidId>09743cda-f9d8-4c19-9d62-90aa16c8ce1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='BodyContent_lblMsgFromVC']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#BodyContent_lblMsgFromVC</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Dear student, Academic and Administrative Community of the University and affili&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>333012e3-df8a-437a-8620-6066ebb0bb87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BodyContent_lblMsgFromVC</value>
+      <webElementGuid>371af0e7-0354-4cee-bf99-e0239e006a5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dear student, Academic and Administrative Community of the University and affiliated colleges, Namaskar. I welcome you all to Sant Gadge Baba Amravati University, the centre of teaching, learning for the higher education in the Western Vidarbha with 480 acres campus.</value>
+      <webElementGuid>678dd22c-1a7b-4272-a37a-ef3e94e0d959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BodyContent_lblMsgFromVC&quot;)</value>
+      <webElementGuid>46727c8d-8c79-4b91-a5a7-a672d7ea881f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='BodyContent_lblMsgFromVC']</value>
+      <webElementGuid>b17b5d98-1c9c-40a5-9881-27e9f4db1fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='UpdatePanel1']/div[4]/div/div[2]/p[3]/span</value>
+      <webElementGuid>7783c05e-959f-42b0-b8fb-1f29023266d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exam &amp; Other Enquiry'])[1]/following::span[3]</value>
+      <webElementGuid>62ba1b7e-360a-4c6e-93c3-c340296b3cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/preceding::span[1]</value>
+      <webElementGuid>a83a3feb-129a-433c-9be9-d7729467376f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Short Profile'])[1]/preceding::span[1]</value>
+      <webElementGuid>a7dda77a-b4d3-455a-9c92-6884f3104314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dear student, Academic and Administrative Community of the University and affiliated colleges, Namaskar. I welcome you all to Sant Gadge Baba Amravati University, the centre of teaching, learning for the higher education in the Western Vidarbha with 480 acres campus.']/parent::*</value>
+      <webElementGuid>909d4b8a-824c-454d-8e81-dcc45f6452c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/span</value>
+      <webElementGuid>03b9c60e-ff9d-420a-910e-8ccbb6a3ba2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'BodyContent_lblMsgFromVC' and (text() = 'Dear student, Academic and Administrative Community of the University and affiliated colleges, Namaskar. I welcome you all to Sant Gadge Baba Amravati University, the centre of teaching, learning for the higher education in the Western Vidarbha with 480 acres campus.' or . = 'Dear student, Academic and Administrative Community of the University and affiliated colleges, Namaskar. I welcome you all to Sant Gadge Baba Amravati University, the centre of teaching, learning for the higher education in the Western Vidarbha with 480 acres campus.')]</value>
+      <webElementGuid>9530e6cb-463e-4409-969e-cb1bfda31e37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

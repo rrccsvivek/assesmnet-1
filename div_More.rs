@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_More</name>
+   <tag></tag>
+   <elementGuidId>2215bd6c-a414-4044-b126-f95499a46423</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.panel-footer > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#content div >> internal:has-text=&quot;More&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e3e6b832-87cd-4a6c-aa82-a2ea17629ef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                More
+                                </value>
+      <webElementGuid>febecf8d-5992-4cf0-b106-d49d74ac82b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;panel panel-info&quot;]/div[@class=&quot;panel-footer&quot;]/div[1]</value>
+      <webElementGuid>e57c59da-6aba-41a4-b9bb-7290e1a2377e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div[3]/div</value>
+      <webElementGuid>90e414f7-40d2-466e-b8f4-d9535d8c6733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Pool of Experts'])[1]/following::div[5]</value>
+      <webElementGuid>75b0fd83-b302-43a7-912f-0723f3dc5b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advertisement - ONLINE APPLICATION FOR CONTRIBUTORY TEACHER (University Teaching Departments)'])[1]/following::div[8]</value>
+      <webElementGuid>914b1a5d-67a5-406f-a0d7-9fffc1cad8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RIGHT TO PUBLIC SERVICES ACT - YOUR SERVICE IS OUR DUTY'])[1]/preceding::div[1]</value>
+      <webElementGuid>59bc1a6b-0c57-430e-a641-3aa6e3d134c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div</value>
+      <webElementGuid>14c46d07-be01-4aaf-91c0-c9d02ed4b952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                More
+                                ' or . = '
+                                More
+                                ')]</value>
+      <webElementGuid>579ff3b1-e9ff-43c5-a4e2-314990c72867</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

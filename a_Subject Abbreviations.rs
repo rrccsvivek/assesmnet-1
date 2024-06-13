@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Subject Abbreviations</name>
+   <tag></tag>
+   <elementGuidId>157cbc1b-0ed9-4ce9-81cc-040652bac463</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='MenuContent_h1subjectabb']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#MenuContent_h1subjectabb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Subject Abbreviations&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>de7279ba-d2e5-4eca-b3fe-42964d0f861c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MenuContent_h1subjectabb</value>
+      <webElementGuid>e7497fd7-c103-4fd9-bb2f-9e3de6f9b4c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Examination/abbrivations.aspx</value>
+      <webElementGuid>378dfc9f-17a7-4140-b39c-24f050d677a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Subject Abbreviations</value>
+      <webElementGuid>820d1070-c258-434d-b7db-6b9ba94d2e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MenuContent_h1subjectabb&quot;)</value>
+      <webElementGuid>916aa376-2958-4ebb-a5cc-2de0e78c66b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='MenuContent_h1subjectabb']</value>
+      <webElementGuid>3ececaff-fde9-4d94-8129-0111f68842c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cssmenu']/ul/li[5]/ul/li[6]/a</value>
+      <webElementGuid>cd92a024-e5a2-471b-ae6e-fa1e41d151b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Subject Abbreviations')]</value>
+      <webElementGuid>4db2c166-d473-4b59-85df-67881abe8f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exam Results'])[1]/following::a[1]</value>
+      <webElementGuid>b70eef84-a5dd-472e-8dfd-a3859d16d55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News &amp; Announcements'])[1]/following::a[2]</value>
+      <webElementGuid>c3899574-816a-41c1-88fd-9938cf8b12a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admission Card'])[1]/preceding::a[1]</value>
+      <webElementGuid>3bf20876-9c78-4b9e-a28c-c15103690da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forms &amp; Fee Schedule'])[1]/preceding::a[2]</value>
+      <webElementGuid>a3738c57-3e4b-49f3-b16b-88eec1076202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Subject Abbreviations']/parent::*</value>
+      <webElementGuid>7776b02e-5dee-4573-afe7-6fd29f4a38c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Examination/abbrivations.aspx')]</value>
+      <webElementGuid>1639aac4-35ea-4c79-9604-fb90ab6775dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[6]/a</value>
+      <webElementGuid>3c5a8aa9-37a5-44d8-a23a-7b6b797d66bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'MenuContent_h1subjectabb' and @href = 'Examination/abbrivations.aspx' and (text() = 'Subject Abbreviations' or . = 'Subject Abbreviations')]</value>
+      <webElementGuid>3aeb86a8-96a8-41d6-a919-b91afbc8f59b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Contact Us</name>
+   <tag></tag>
+   <elementGuidId>233fde84-60c7-4a1c-bad0-73af76fc7ce9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='UpdatePanel1']/div[4]/div/div/ol/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ol.breadcrumb > li.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>ol >> internal:text=&quot;Contact Us&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d872df4c-3811-4688-be7e-28cb6900b3ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>591b9c8d-c39e-4c72-ad51-75089c43d2b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us</value>
+      <webElementGuid>90abaf15-20ff-4a50-aef5-5167f899f4e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UpdatePanel1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col-md-12&quot;]/ol[@class=&quot;breadcrumb&quot;]/li[@class=&quot;active&quot;]</value>
+      <webElementGuid>790d937d-5362-4c72-9fe6-2d03bde47e09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='UpdatePanel1']/div[4]/div/div/ol/li[3]</value>
+      <webElementGuid>7711df31-064a-4852-8066-9bddc5fdd16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Examination'])[2]/following::li[1]</value>
+      <webElementGuid>6213d58d-e9e5-4ddf-b4da-1c397fae9be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::li[2]</value>
+      <webElementGuid>84e0aab8-fad3-45f9-810a-7250fa5780e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Examination Section'])[1]/preceding::li[1]</value>
+      <webElementGuid>248482c9-e3ff-4123-b614-698535aeb184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[5]/preceding::li[1]</value>
+      <webElementGuid>9835eec2-9afc-406b-9ec0-c0545aab5aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[3]</value>
+      <webElementGuid>5a4662cb-7f62-43ad-90e6-88f63581328a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>c3a491c7-d152-4eb1-9aca-354e79f67f42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

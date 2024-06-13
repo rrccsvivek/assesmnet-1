@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dr. Milind A. Barhate Vice- Chancellor</name>
+   <tag></tag>
+   <elementGuidId>57b09eb2-9853-464f-82f5-3de378650c58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='BodyContent_lblVCNameTemp']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#BodyContent_lblVCNameTemp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Dr. Milind A. Barhate Vice- Chancellor&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9ba385e6-a939-46b0-baac-6bc87711e900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BodyContent_lblVCNameTemp</value>
+      <webElementGuid>9513ed7a-1b15-4d15-bb06-b75e17280282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dr. Milind A. Barhate Vice- Chancellor </value>
+      <webElementGuid>b22b2e02-0986-46bc-b7be-f27dafef93ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BodyContent_lblVCNameTemp&quot;)</value>
+      <webElementGuid>cb5a0606-f162-42cb-aa4b-ea33bb967d0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='BodyContent_lblVCNameTemp']</value>
+      <webElementGuid>55ca6352-a5fb-4060-a9fd-8dc0b93ede5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='UpdatePanel1']/div[4]/div/div[2]/p[5]/span</value>
+      <webElementGuid>9376c052-56b8-4be3-a996-3a00bedd29c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Short Profile'])[1]/following::span[1]</value>
+      <webElementGuid>c418a13f-f0f1-4551-99c6-f491b226e63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/following::span[1]</value>
+      <webElementGuid>208546f6-b2f9-4fbf-9770-26a84706d94f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dr. Milind A. Barhate Vice- Chancellor']/parent::*</value>
+      <webElementGuid>9a1ed305-ae28-499c-a986-438642c5a841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]/span</value>
+      <webElementGuid>903dd567-1043-4cfe-b67a-0417f50ab13b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'BodyContent_lblVCNameTemp' and (text() = 'Dr. Milind A. Barhate Vice- Chancellor ' or . = 'Dr. Milind A. Barhate Vice- Chancellor ')]</value>
+      <webElementGuid>df2f53a0-99c0-4e44-ad03-1c82fdcc6d89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

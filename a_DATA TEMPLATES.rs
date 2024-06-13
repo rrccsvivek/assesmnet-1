@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DATA TEMPLATES</name>
+   <tag></tag>
+   <elementGuidId>d98b2feb-8381-4823-b570-5ab8a6c0c297</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='MenuContent_HplnkNAAC2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#MenuContent_HplnkNAAC2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;DATA TEMPLATES&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>38e4bab9-8391-45a2-9f04-60bde35b251d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MenuContent_HplnkNAAC2</value>
+      <webElementGuid>fc50a795-a600-4a30-95d4-364b8fd77ed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>IQAC/PDF/DataTemplatePDF/ExtendedProfileDataTemplateWordFile_20210802.pdf</value>
+      <webElementGuid>42e4cd01-ef4b-4bf4-bf21-85a0328dca5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DATA TEMPLATES</value>
+      <webElementGuid>58c8ea9f-f7a9-4c22-8e57-1de952b2f187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MenuContent_HplnkNAAC2&quot;)</value>
+      <webElementGuid>577e4144-9017-4520-90a2-666e07861839</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='MenuContent_HplnkNAAC2']</value>
+      <webElementGuid>4434c486-27af-42ce-9ae4-ce92eceb9f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cssmenu']/ul/li[6]/ul/li[2]/a</value>
+      <webElementGuid>9280c698-b46e-4d8e-98d1-aa5a53f86c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DATA TEMPLATES')]</value>
+      <webElementGuid>8cb0265c-5dda-4ca6-90c7-4fdc24b0b44f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SSR'])[1]/following::a[1]</value>
+      <webElementGuid>7ce49201-453d-4fbf-9a3b-cdd232ce973a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::a[3]</value>
+      <webElementGuid>7892a1be-47c4-4493-ba25-d7c2480d9e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AQAR 2015-2016'])[1]/preceding::a[2]</value>
+      <webElementGuid>455a956b-516f-4615-a771-cb5392c5a77f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AQAR 2016-2017'])[1]/preceding::a[3]</value>
+      <webElementGuid>5cf7327e-3636-452e-8b06-f94a28e940de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DATA TEMPLATES']/parent::*</value>
+      <webElementGuid>d2a27159-2a4d-494d-88ea-2f7d20e227c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'IQAC/PDF/DataTemplatePDF/ExtendedProfileDataTemplateWordFile_20210802.pdf')]</value>
+      <webElementGuid>9eec7a6b-7e84-4d74-ba84-a9872d2670d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[2]/a</value>
+      <webElementGuid>057edab1-9a40-449f-832c-355c00f8468e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'MenuContent_HplnkNAAC2' and @href = 'IQAC/PDF/DataTemplatePDF/ExtendedProfileDataTemplateWordFile_20210802.pdf' and (text() = 'DATA TEMPLATES' or . = 'DATA TEMPLATES')]</value>
+      <webElementGuid>ada28400-031a-4a4f-9ded-026982dd171d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

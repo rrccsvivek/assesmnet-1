@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Applied Electronics</name>
+   <tag></tag>
+   <elementGuidId>db9f5ff9-7808-487f-b6ca-73133aa854ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='MenuContent_h1appliedelec']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#MenuContent_h1appliedelec</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Applied Electronics&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3fdb77b6-b88b-4884-8ff0-09e5d1e0c5f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MenuContent_h1appliedelec</value>
+      <webElementGuid>1e23b51a-9404-4071-9db1-ea14c7a3746f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>departments/AppliedElec/Default.aspx</value>
+      <webElementGuid>632aeca2-2e03-432d-b3a8-5237f9076dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applied Electronics</value>
+      <webElementGuid>93de166b-2047-4f4a-b130-3d6d9b472cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MenuContent_h1appliedelec&quot;)</value>
+      <webElementGuid>3e5d4d37-9279-4711-ae60-15041cb7234f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='MenuContent_h1appliedelec']</value>
+      <webElementGuid>b6eb536f-4d18-455d-a101-c12c003faa4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cssmenu']/ul/li[2]/ul/li/a</value>
+      <webElementGuid>c8046526-aa24-4116-a25a-bc818cac1f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Applied Electronics')]</value>
+      <webElementGuid>ad5cab0b-ba5d-458e-b47e-54a3147e42e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About University'])[1]/following::a[2]</value>
+      <webElementGuid>2d607850-5411-4311-b60c-08ca99326e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aims &amp; Objectives'])[1]/following::a[3]</value>
+      <webElementGuid>ae0db260-9b52-4082-b5ed-be47f57e05bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biotechnology'])[1]/preceding::a[1]</value>
+      <webElementGuid>f15da3d5-2c0e-41ce-8feb-13457d21f606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Botany'])[1]/preceding::a[2]</value>
+      <webElementGuid>d60c4654-071e-4c6e-9b6a-7730c57abaab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Applied Electronics']/parent::*</value>
+      <webElementGuid>a28035fa-2605-41a8-a835-1b3ad3a94f72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'departments/AppliedElec/Default.aspx')]</value>
+      <webElementGuid>a7a85913-20cf-4795-af74-458fa516c9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a</value>
+      <webElementGuid>335c1c61-afaf-44b4-83c6-41420fb58077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'MenuContent_h1appliedelec' and @href = 'departments/AppliedElec/Default.aspx' and (text() = 'Applied Electronics' or . = 'Applied Electronics')]</value>
+      <webElementGuid>37237c64-dacd-4091-9aeb-d2d699f97e9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

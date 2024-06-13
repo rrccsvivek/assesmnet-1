@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Examination Office</name>
+   <tag></tag>
+   <elementGuidId>943c8160-c1ca-4009-a7c2-27bcb01dc7b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='MenuContent_h1examoffice']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#MenuContent_h1examoffice</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Examination Office&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1820643a-fe18-4027-b1ab-603f9b7c0ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MenuContent_h1examoffice</value>
+      <webElementGuid>ceec6ea7-39ed-4934-8b77-572c62ffb138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Examination/Aboutus.aspx</value>
+      <webElementGuid>3b5e85f9-7ca9-4698-a381-5f67151afac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Examination Office</value>
+      <webElementGuid>88126349-0912-44dd-bfde-16aefa303427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MenuContent_h1examoffice&quot;)</value>
+      <webElementGuid>5b3f8143-b1bf-4387-ae44-130c4c170657</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='MenuContent_h1examoffice']</value>
+      <webElementGuid>d14029ae-3607-464e-9dca-f610994f45f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cssmenu']/ul/li[5]/ul/li/a</value>
+      <webElementGuid>41c0a10c-836d-4c28-84e6-b75c4e73e4c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Examination Office')]</value>
+      <webElementGuid>d2b03ca6-6244-405f-91b3-f465dc8cf677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Central Administrative Services Unit (CASU)'])[1]/following::a[2]</value>
+      <webElementGuid>ad2b76d1-a04d-4697-a560-45cf8b2bf195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrative Officers'])[1]/following::a[3]</value>
+      <webElementGuid>f20503b9-c274-4b12-a9bd-8393d34e8803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Table'])[1]/preceding::a[1]</value>
+      <webElementGuid>4e25c3d3-437d-4de6-a163-4f30d2c12fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Press Note'])[1]/preceding::a[2]</value>
+      <webElementGuid>25d6d369-a0dc-4d6e-8e98-90b82ad01ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Examination Office']/parent::*</value>
+      <webElementGuid>85ce6ede-4861-4ed2-919e-c2ead01a6407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Examination/Aboutus.aspx')]</value>
+      <webElementGuid>35528caf-de60-4f63-9df7-f476dd8d3bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li/a</value>
+      <webElementGuid>e64b7ecc-b8a7-4ac5-abf0-be1abdaee9df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'MenuContent_h1examoffice' and @href = 'Examination/Aboutus.aspx' and (text() = 'Examination Office' or . = 'Examination Office')]</value>
+      <webElementGuid>ce8fad97-d394-477a-8062-74bb9ddc4d22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

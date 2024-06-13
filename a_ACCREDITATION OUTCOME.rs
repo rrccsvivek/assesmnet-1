@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ACCREDITATION OUTCOME</name>
+   <tag></tag>
+   <elementGuidId>5c6043cf-be09-4499-bc45-3e48955a03de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='MenuContent_HplnkNAAC4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#MenuContent_HplnkNAAC4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;ACCREDITATION OUTCOME&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6739d424-954c-4d48-b892-ee1667a00baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MenuContent_HplnkNAAC4</value>
+      <webElementGuid>8841a3ee-c810-4673-a048-b4fa847ba8e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a4ea8204-f02a-4977-8fb9-f292386d38db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACCREDITATION OUTCOME</value>
+      <webElementGuid>176a4a6a-9e0f-42c3-ba6f-7405c0d01834</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MenuContent_HplnkNAAC4&quot;)</value>
+      <webElementGuid>78372127-67ae-49f9-9897-004a8770078e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='MenuContent_HplnkNAAC4']</value>
+      <webElementGuid>9594cf04-3eef-424b-a502-e0af2fe9d464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cssmenu']/ul/li[6]/ul/li[4]/a</value>
+      <webElementGuid>82f8bbf0-a246-4290-a882-d2c3e5aaa358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ACCREDITATION OUTCOME')]</value>
+      <webElementGuid>64ba92fd-0866-4a3f-9cd3-5006166a26bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AQAR 2019-2020'])[1]/following::a[1]</value>
+      <webElementGuid>9ec4e1d8-3381-41ed-957f-b958cf6c9685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AQAR 2018-2019'])[1]/following::a[2]</value>
+      <webElementGuid>0c8a6f1d-dbce-44c7-b29a-2199c8a6764f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cycle 1'])[1]/preceding::a[1]</value>
+      <webElementGuid>74f2e283-ab3b-4bc7-a4a4-37b991e71612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cycle 2'])[1]/preceding::a[2]</value>
+      <webElementGuid>beb3386d-8115-4af2-a1d3-29c33b9f5ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ACCREDITATION OUTCOME']/parent::*</value>
+      <webElementGuid>779a010a-b550-403c-90f4-6da4ad77eeb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[15]</value>
+      <webElementGuid>3cf228da-e6ed-40af-a353-a35f0ff18e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[4]/a</value>
+      <webElementGuid>2dbb92a0-9c4f-48a8-bc04-00d5f1b36e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'MenuContent_HplnkNAAC4' and @href = '#' and (text() = 'ACCREDITATION OUTCOME' or . = 'ACCREDITATION OUTCOME')]</value>
+      <webElementGuid>0e8e4d8a-6f40-4e14-8910-03ae7da86ca0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

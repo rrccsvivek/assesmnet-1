@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shri Ramesh Bais, Honble Chancellor</name>
+   <tag></tag>
+   <elementGuidId>b0f3a9a8-7f25-4d90-9380-3df8ab07973a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='BodyContent_lblHCName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#BodyContent_lblHCName</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Shri Ramesh Bais, Hon'ble Chancellor&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c5c0f7c4-f06b-47a5-a428-f9f4acd821de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BodyContent_lblHCName</value>
+      <webElementGuid>d731d8d5-6635-4a5f-9128-d6817c4385ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shri Ramesh Bais, Hon'ble Chancellor</value>
+      <webElementGuid>a4ddc4d8-b2c8-46c6-af53-2a9fac7f6e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BodyContent_lblHCName&quot;)</value>
+      <webElementGuid>46b6ed0b-214d-4379-b437-73e76ff9b6cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='BodyContent_lblHCName']</value>
+      <webElementGuid>ad970f80-043b-4f99-918c-de812687e98e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='UpdatePanel1']/div[4]/div/div[2]/p[2]/span</value>
+      <webElementGuid>eb8dcc2a-b9ac-495b-b834-c335ae796dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exam &amp; Other Enquiry'])[1]/following::span[2]</value>
+      <webElementGuid>df1baf4a-9ca8-46cc-9869-ddb2004823d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department Contacts'])[1]/following::span[2]</value>
+      <webElementGuid>c01c83c9-1700-4f85-a0e2-2a414d367c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/preceding::span[2]</value>
+      <webElementGuid>3c8889d1-c52c-4b50-ac35-2516a9ca2bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Short Profile'])[1]/preceding::span[2]</value>
+      <webElementGuid>ee0d7d12-c2a7-49fc-b342-8a3021a0b25e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/span</value>
+      <webElementGuid>abc7c3ee-c6b4-41ee-bb4c-896b27c0d53d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'BodyContent_lblHCName' and (text() = concat(&quot;Shri Ramesh Bais, Hon&quot; , &quot;'&quot; , &quot;ble Chancellor&quot;) or . = concat(&quot;Shri Ramesh Bais, Hon&quot; , &quot;'&quot; , &quot;ble Chancellor&quot;))]</value>
+      <webElementGuid>1d04224b-94a1-436f-bfc6-bd79e229a8df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
